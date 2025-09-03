@@ -27,30 +27,30 @@ Below are the CVEs I registered for vulnerabilities I found in *Campcodes Online
 ### **CVE-2025-9754**
 #### Campcodes Online Hospital Management System Edit Profile edit-profile.php cross site scripting (XSS)
 ##### References:
-**NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9754](https://nvd.nist.gov/vuln/detail/CVE-2025-9754)**
-**CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9754/](https://www.cvedetails.com/cve/CVE-2025-9754/)**
-**VulnDB: [https://vuldb.com/?id.322055](https://vuldb.com/?id.322055)**
-**CVE Feed: [https://cvefeed.io/vuln/detail/CVE-2025-9754](https://cvefeed.io/vuln/detail/CVE-2025-9754)**
-**Tenable: [https://www.tenable.com/cve/CVE-2025-9754](https://www.tenable.com/cve/CVE-2025-9754)**
+- **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9754](https://nvd.nist.gov/vuln/detail/CVE-2025-9754)**
+- **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9754/](https://www.cvedetails.com/cve/CVE-2025-9754/)**
+- **VulnDB: [https://vuldb.com/?id.322055](https://vuldb.com/?id.322055)**
+- **CVE Feed: [https://cvefeed.io/vuln/detail/CVE-2025-9754](https://cvefeed.io/vuln/detail/CVE-2025-9754)**
+- **Tenable: [https://www.tenable.com/cve/CVE-2025-9754](https://www.tenable.com/cve/CVE-2025-9754)**
 
 ---
 
 ### **CVE-2025-9753**
 #### Campcodes Online Hospital Management System Patient Search patient-search.php cross site scripting (XSS)
 ##### References:
-**NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9753](https://nvd.nist.gov/vuln/detail/CVE-2025-9753)**
-**CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9753/](https://www.cvedetails.com/cve/CVE-2025-9753/)**
-**VulnDB: [https://vuldb.com/?id.322054](https://vuldb.com/?id.322054)**
-**CVE Feed: [https://cvefeed.io/vuln/detail/CVE-2025-9753](https://cvefeed.io/vuln/detail/CVE-2025-9753)**
-**Tenable: [https://www.tenable.com/cve/CVE-2025-9753/cpes](https://www.tenable.com/cve/CVE-2025-9753/cpes)**
+- **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9753](https://nvd.nist.gov/vuln/detail/CVE-2025-9753)**
+- **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9753/](https://www.cvedetails.com/cve/CVE-2025-9753/)**
+- **VulnDB: [https://vuldb.com/?id.322054](https://vuldb.com/?id.322054)**
+- **CVE Feed: [https://cvefeed.io/vuln/detail/CVE-2025-9753](https://cvefeed.io/vuln/detail/CVE-2025-9753)**
+- **Tenable: [https://www.tenable.com/cve/CVE-2025-9753/cpes](https://www.tenable.com/cve/CVE-2025-9753/cpes)**
 
 ---
 
 ### **CVE-2025-9746**
 #### Campcodes Hospital Management System Edit Doctor Specialization edit-doctor-specialization.php cross site scripting (XSS)
 ##### References:
-**NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9746](https://nvd.nist.gov/vuln/detail/CVE-2025-9746)**
-**CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9746/](https://www.cvedetails.com/cve/CVE-2025-9746/)**
-**CVE Record MITRE: [https://www.cve.org/CVERecord?id=CVE-2025-9746](https://www.cve.org/CVERecord?id=CVE-2025-9746)**
-**Tenable: [https://www.tenable.com/cve/CVE-2025-9746](https://www.tenable.com/cve/CVE-2025-9746)**
-**VulnDB: [https://vuldb.com/?id.322045](https://vuldb.com/?id.322045)**
+- **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9746](https://nvd.nist.gov/vuln/detail/CVE-2025-9746)**
+- **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9746/](https://www.cvedetails.com/cve/CVE-2025-9746/)**
+- **CVE Record MITRE: [https://www.cve.org/CVERecord?id=CVE-2025-9746](https://www.cve.org/CVERecord?id=CVE-2025-9746)**
+- **Tenable: [https://www.tenable.com/cve/CVE-2025-9746](https://www.tenable.com/cve/CVE-2025-9746)**
+- **VulnDB: [https://vuldb.com/?id.322045](https://vuldb.com/?id.322045)**
