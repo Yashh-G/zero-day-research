@@ -15,12 +15,12 @@ Below are the CVEs I registered for vulnerabilities I found in *Campcodes Online
 ### **CVE-2025-9770**
 #### Campcodes Hospital Management System Admin Dashboard Login admin sql injection
 ##### References:
-**NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9770](https://nvd.nist.gov/vuln/detail/CVE-2025-9770)**
-**VulnDB: [https://vuldb.com/?submit.640807](https://vuldb.com/?submit.640807)**
-**CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9770/](https://www.cvedetails.com/cve/CVE-2025-9770/)**
-**CVE Record MITRE: [https://www.cve.org/CVERecord?id=CVE-2025-9770](https://www.cve.org/CVERecord?id=CVE-2025-9770)**
-**Vulners: [https://vulners.com/cve/CVE-2025-9770](https://vulners.com/cve/CVE-2025-9770)**
-**Tenable: [https://www.tenable.com/cve/CVE-2025-9770](https://www.tenable.com/cve/CVE-2025-9770)**
+- **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9770](https://nvd.nist.gov/vuln/detail/CVE-2025-9770)**
+- **VulnDB: [https://vuldb.com/?submit.640807](https://vuldb.com/?submit.640807)**
+- **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9770/](https://www.cvedetails.com/cve/CVE-2025-9770/)**
+- **CVE Record MITRE: [https://www.cve.org/CVERecord?id=CVE-2025-9770](https://www.cve.org/CVERecord?id=CVE-2025-9770)**
+- **Vulners: [https://vulners.com/cve/CVE-2025-9770](https://vulners.com/cve/CVE-2025-9770)**
+- **Tenable: [https://www.tenable.com/cve/CVE-2025-9770](https://www.tenable.com/cve/CVE-2025-9770)**
 
 ---
 
