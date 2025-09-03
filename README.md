@@ -13,26 +13,13 @@ I created this repo to document and share vulnerabilities I discovered, their Po
 
 Below are the CVEs I registered for vulnerabilities I found in *Campcodes Online Hospital Management System 1.0*.
 
-1. **CVE-2025-9770** — Admin Dashboard Login: Authentication bypass via SQL Injection
+1. **CVE-2025-9770** — Campcodes Hospital Management System Admin Dashboard Login admin sql injection
 
-   * Short: SQL injection in `/admin/` (Password parameter) allowing login bypass and potential data access.
-   * PoC (this repo): `./HMS_Admin_Auth_Bypass.pdf`
-   * Public references: NVD / other vulnerability trackers.
+2. **CVE-2025-9754** — Campcodes Online Hospital Management System Edit Profile edit-profile.php cross site scripting (XSS)
 
-2. **CVE-2025-9754** — Edit Profile Page: Cross-Site Scripting (XSS)
+3. **CVE-2025-9753** — Campcodes Online Hospital Management System Patient Search patient-search.php cross site scripting (XSS)
 
-   * Short: Stored/reflected XSS in `/edit-profile.php` via the `Username` parameter.
-   * Public references: NVD / Tenable / VulDB.
-
-3. **CVE-2025-9753** — Patient Search Module: Cross-Site Scripting (XSS)
-
-   * Short: XSS in `/admin/patient-search.php` via `Search by Name / Mobile No` parameter.
-   * Public references: NVD / CVEDetails / VulDB.
-
-4. **CVE-2025-9746** — Edit Doctor Specialization Page: Cross-Site Scripting (XSS)
-
-   * Short: XSS in `/admin/edit-doctor-specialization.php` allowing injection into the Doctor Specialization field.
-   * Public references: NVD / Tenable / VulDB.
+4. **CVE-2025-9746** — Campcodes Hospital Management System Edit Doctor Specialization edit-doctor-specialization.php cross site scripting (XSS)
 
 ## Useful external references (official trackers)
 
