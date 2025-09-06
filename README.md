@@ -52,6 +52,9 @@ The detailed Proof of Concept can be found here:
 #### Campcodes Online Hospital Management System Patient Search patient-search.php cross site scripting (XSS)
 **Description:**
 A vulnerability was detected in Campcodes Online Hospital Management System 1.0. The affected element is an unknown function of the file /admin/patient-search.php of the component Patient Search Module. Performing manipulation of the argument Search by Name Mobile No results in cross site scripting. The attack may be initiated remotely. The exploit is now public and may be used.
+### Proof of Concept (PoC)
+The detailed Proof of Concept can be found here:  
+[Patient Search Page XSS (PDF)](https://github.com/Yashh-G/zero-day-research/blob/main/CVE-2025-9753/Patient%20Search%20Page%20XSS.pdf)
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9753](https://nvd.nist.gov/vuln/detail/CVE-2025-9753)**
 - **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9753/](https://www.cvedetails.com/cve/CVE-2025-9753/)**
@@ -65,6 +68,9 @@ A vulnerability was detected in Campcodes Online Hospital Management System 1.0.
 #### Campcodes Hospital Management System Edit Doctor Specialization edit-doctor-specialization.php cross site scripting (XSS)
 **Description:**
 A vulnerability was detected in Campcodes Hospital Management System 1.0. This affects an unknown function of the file /admin/edit-doctor-specialization.php of the component Edit Doctor Specialization Page. The manipulation results in cross site scripting. The attack may be launched remotely. The exploit is now public and may be used.
+### Proof of Concept (PoC)
+The detailed Proof of Concept can be found here:  
+[Edit Doctor Specialization XSS (PDF)](https://github.com/Yashh-G/zero-day-research/blob/main/CVE-2025-9746/Edit%20Doctor%20Specialization%20XSS.pdf)
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9746](https://nvd.nist.gov/vuln/detail/CVE-2025-9746)**
 - **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9746/](https://www.cvedetails.com/cve/CVE-2025-9746/)**
