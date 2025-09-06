@@ -14,6 +14,9 @@ Below are the CVEs I registered for vulnerabilities I found in *Campcodes Online
 
 ### **CVE-2025-9770**
 #### Campcodes Hospital Management System Admin Dashboard Login admin sql injection
+**Description:**
+A weakness has been identified in Campcodes Hospital Management System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/ of the component Admin Dashboard Login. This manipulation of the argument Password causes sql injection. It is possible to initiate the attack remotely. The exploit has been made available to the public and could be exploited.
+
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9770](https://nvd.nist.gov/vuln/detail/CVE-2025-9770)**
 - **VulnDB: [https://vuldb.com/?submit.640807](https://vuldb.com/?submit.640807)**
