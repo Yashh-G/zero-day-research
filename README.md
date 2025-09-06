@@ -18,7 +18,7 @@ Below are the CVEs I registered for vulnerabilities I found in *Campcodes Online
 A weakness has been identified in Campcodes Hospital Management System 1.0. Affected by this vulnerability is an unknown functionality of the file /admin/ of the component Admin Dashboard Login. This manipulation of the argument Password causes sql injection. It is possible to initiate the attack remotely. The exploit has been made available to the public and could be exploited.
 ### Proof of Concept (PoC)
 The detailed Proof of Concept can be found here:  
-[HMS Admin Auth Bypass (PDF)](https://github.com/Yashh-G/zero-day-research/blob/main/HMS_Admin_Auth_Bypass.pdf)
+[HMS Admin Auth Bypass via SQL Injection (PDF)](https://github.com/Yashh-G/zero-day-research/blob/main/HMS_Admin_Auth_Bypass.pdf)
 
 
 ##### References:
@@ -35,6 +35,10 @@ The detailed Proof of Concept can be found here:
 #### Campcodes Online Hospital Management System Edit Profile edit-profile.php cross site scripting (XSS)
 **Description:**
 A flaw has been found in Campcodes Online Hospital Management System 1.0. The impacted element is an unknown function of the file /edit-profile.php of the component Edit Profile Page. Executing manipulation of the argument Username can lead to cross site scripting. The attack may be launched remotely. The exploit has been published and may be used.
+### Proof of Concept (PoC)
+The detailed Proof of Concept can be found here:  
+[Edit Profile Page XSS (PDF)](https://github.com/Yashh-G/zero-day-research/blob/main/HMS_Stored_XSS_In_UserName_Field.pdf)
+
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9754](https://nvd.nist.gov/vuln/detail/CVE-2025-9754)**
 - **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9754/](https://www.cvedetails.com/cve/CVE-2025-9754/)**
