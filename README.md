@@ -29,6 +29,8 @@ A weakness has been identified in Campcodes Hospital Management System 1.0. Affe
 
 ### **CVE-2025-9754**
 #### Campcodes Online Hospital Management System Edit Profile edit-profile.php cross site scripting (XSS)
+**Description:**
+A flaw has been found in Campcodes Online Hospital Management System 1.0. The impacted element is an unknown function of the file /edit-profile.php of the component Edit Profile Page. Executing manipulation of the argument Username can lead to cross site scripting. The attack may be launched remotely. The exploit has been published and may be used.
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9754](https://nvd.nist.gov/vuln/detail/CVE-2025-9754)**
 - **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9754/](https://www.cvedetails.com/cve/CVE-2025-9754/)**
@@ -40,6 +42,8 @@ A weakness has been identified in Campcodes Hospital Management System 1.0. Affe
 
 ### **CVE-2025-9753**
 #### Campcodes Online Hospital Management System Patient Search patient-search.php cross site scripting (XSS)
+**Description:**
+A vulnerability was detected in Campcodes Online Hospital Management System 1.0. The affected element is an unknown function of the file /admin/patient-search.php of the component Patient Search Module. Performing manipulation of the argument Search by Name Mobile No results in cross site scripting. The attack may be initiated remotely. The exploit is now public and may be used.
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9753](https://nvd.nist.gov/vuln/detail/CVE-2025-9753)**
 - **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9753/](https://www.cvedetails.com/cve/CVE-2025-9753/)**
@@ -51,6 +55,8 @@ A weakness has been identified in Campcodes Hospital Management System 1.0. Affe
 
 ### **CVE-2025-9746**
 #### Campcodes Hospital Management System Edit Doctor Specialization edit-doctor-specialization.php cross site scripting (XSS)
+**Description:**
+A vulnerability was detected in Campcodes Hospital Management System 1.0. This affects an unknown function of the file /admin/edit-doctor-specialization.php of the component Edit Doctor Specialization Page. The manipulation results in cross site scripting. The attack may be launched remotely. The exploit is now public and may be used.
 ##### References:
 - **NVD Link: [https://nvd.nist.gov/vuln/detail/CVE-2025-9746](https://nvd.nist.gov/vuln/detail/CVE-2025-9746)**
 - **CVE Details: [https://www.cvedetails.com/cve/CVE-2025-9746/](https://www.cvedetails.com/cve/CVE-2025-9746/)**
